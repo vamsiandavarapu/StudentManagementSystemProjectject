@@ -1,3 +1,4 @@
 # StudentManagementSystemProject
 
-A simple calculator is a basic application that performs fundamental arithmetic operations such as addition, subtraction, multiplication, and division. It typically features a user-friendly interface where users can input numbers and select operations, displaying the results in real-time.
+A Student Management System is an application that helps educational institutions manage student data and administrative tasks. It typically includes features for student enrollment, attendance tracking, grade
+management, and communication between students, teachers, and parents. The system streamlines administrative processes and enhances the overall educational experience.
